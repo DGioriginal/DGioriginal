@@ -1,0 +1,72 @@
+import tkinter
+from tkinter.filedialog import *
+from tkinter import messagebox
+from tkinter.filedialog import *
+from time import sleep
+heightO = 600
+widthO = 450
+hello_friend = True
+def crac():
+    info_crac = Tk()
+    info_crac.title("AHAHA...YOUR CRAC")
+    computer = Canvas(info_crac, height = 900, width = 1200)
+    computer.pack()
+    wordsh = computer.create_text(600, 500, text='Hello, YOUR COMPUTER HACKED, BUT SORRY...GIVE ME YOU money', fill='darkblue', font='Times 25')
+    wordsh = computer.create_text(650, 550, text='Hello, YOUR COMPUTER HACKED, BUT SORRY...GIVE ME YOU money', fill='darkblue', font='Times 25')
+    wordsh = computer.create_text(700, 600, text='Hello, YOUR COMPUTER HACKED, BUT SORRY...GIVE ME YOU money', fill='darkblue', font='Times 25')
+    wordsh = computer.create_text(750, 650, text='Hello, YOUR COMPUTER HACKED, BUT SORRY...GIVE ME YOU money', fill='darkblue', font='Times 25')
+
+def loadfile():
+    load_file = Tk()
+    load_file.title("GIVE ME YOU MONEY, NO sly")
+    complf = Canvas(load_file, height = 900, width = 1200)
+    complf.pack()
+    op = askopenfilename()
+    wordsh = complf.create_text(600, 500, text='YES, BUT NO... ', fill='darkblue', font='Times 35')
+def error():
+    root = tkinter.Tk()
+    root.withdraw()
+    messagebox.showerror("Error", "YOUR COMPUTER HACKED")
+    messagebox.showerror("差错", "程序错误")
+    messagebox.showerror("Fehler", "Programmfehler")
+    messagebox.showerror("Fejltagelse", "Fællesskab")
+    messagebox.showerror("Faute", "Erreur du logiciel")
+    messagebox.showerror("қателік", "қателік в программе")
+def windowchen():
+    wchench = Tk()
+    wchench.title ('STNSDJG' or 'jsdfsdf' or 'sdfsdgg' or 'sdf df')
+    computer = Canvas(wchench, height = 900 , width = 1200)
+    computer.pack()
+
+def more_away():
+    btn2.configure(text='HAHA...NO!')
+    for i in range (5):
+        loadfile()
+        error()
+        windowchen()
+def no_please():
+      btn3.configure(text='OK!!!!!!!')
+      for i in range (10):
+            error()
+
+dostart = Tk()
+dostart.title("AHAHA...YOUR CRAC")
+window = Canvas(dostart, height = 900, width = 1200)
+window.pack()
+btn2 = Button(window, text="MORE AWAY!", command=more_away)
+btn3 = Button(window, text="NO, NO , PLEASE", command=no_please)    
+btn2.grid(column=100, row=60)
+btn3.grid(column=100, row=70) 
+    
+
+while hello_friend:
+    for i in range(200):
+        windowchen()
+    for i in range (50):
+        crac()
+    for i in range (20):
+        loadfile()
+    for i in range (10):
+        error()
+    hello_friend = False
+
