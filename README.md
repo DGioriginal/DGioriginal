@@ -2,7 +2,6 @@
  <pre>MAKE DANIL. COMPANY DGi.org</pre>
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-    <title>I'M</title>
   </head>
   <body>
     <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" alt="HTML">
