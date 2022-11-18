@@ -1,3 +1,5 @@
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=DGi.org&pause=1000&color=C38AF7&center=%D0%9B%D0%9E%D0%96%D0%AC&vCenter=%D0%9B%D0%9E%D0%96%D0%AC&multiline=true&width=435&lines=DGi.org%2C+HTML%2C+JavaScript+and+Python" alt="Typing SVG" /></a>
+
 <!DOCTYPE html>
  <pre>MAKE DANIL. COMPANY DGi.org</pre>
   <head>
