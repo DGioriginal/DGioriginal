@@ -4,15 +4,7 @@
   <head>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   </head>
-  <body>
-    <img src="https://media.giphy.com/media/l3vRfNA1p0rvhMSvS/giphy.gif" alt="HTML">
-  </body>
- <body>
-  <a></a>
-  <a href=""></a>
-  <h4>Click IF YOU WANT TO SEE MY GitHAB account|</h4>
-  <a href="https://github.com/DGioriginal">CLICK</a>
- </body>
+
  <body>
    <div id="header" align="center">
   <img src="https://media.giphy.com/media/coxQHKASG60HrHtvkt/giphy.gif" width="450"
@@ -49,6 +41,11 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DGioriginal)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGioriginal)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-
+[![trophy](https://github-profile-trophy.vercel.app/?username=DGioriginal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DGioriginal)](https://github.com/anuraghazra/github-readme-stats)
+![](https://komarev.com/ghpvc/?username=DGioriginal)
+     [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=DGioriginal)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DGioriginal&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DGioriginal&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DGioriginal&theme=solarized_dark)
+https://metrics.lecoq.io/insights/DGioriginal
