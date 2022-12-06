@@ -13,7 +13,6 @@
 
 
  <h5>THIS IS ME. IF YOU WANT GO TO PYTHON DISCORD-SERVER CLICK HERE</h5>
- <a href="https://discord.gg/SA3vrVwr">CLICK</a>
  <img alt="Discord" src="https://img.shields.io/discord/930421351053934663?label=DIACORD%20SERVER%20FOR%20PYTHON&logo=%F0%9F%93%9D&logoColor=blueviolet&style=plastic">
 
  
