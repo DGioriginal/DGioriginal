@@ -16,7 +16,7 @@
  <img alt="Discord" src="https://img.shields.io/discord/930421351053934663?label=DIACORD%20SERVER%20FOR%20PYTHON&logo=%F0%9F%93%9D&logoColor=blueviolet&style=plastic">
 
  
- <h3>I FROM UKRAINE????. BUT NOW I LEAVE IN GERMANY/I LIKE PYTHON AND LIBRARY OF PYTHON: PYGAME AND TKINTER</h3>
+ <h3>I'm FROM UKRAINE. BUT NOW I LEAVE IN GERMANY/I LIKE PYTHON AND LIBRARY OF PYTHON: PYGAME AND TKINTER</h3>
  <div id="header" align="center">
        <img src="https://media.giphy.com/media/MOSebUr4rvZS0/giphy.gif" width="150"
  </div>
