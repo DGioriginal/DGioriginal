@@ -6,21 +6,29 @@
   </head>
 
  <body> 
-   <p><a href="https://www.buymeacoffee.com/UkraineGrivnya"><img src="yellow-button.png" width="500" 
-   height="500" ></a></p>
+   <p><a href="https://www.buymeacoffee.com/UkraineGrivnya"><img src="yellow-button.png" width="1000" 
+   height="250" ></a></p>
  </body> 
 
 
- <h5>THIS IS ME. IF YOU WANT GO TO PYTHON DISCORD-SERVER CLICK HERE</h5>
- <img alt="Discord" src="https://img.shields.io/discord/930421351053934663?label=DIACORD%20SERVER%20FOR%20PYTHON&logo=%F0%9F%93%9D&logoColor=blueviolet&style=plastic">
+ <h5>These are my networks, if you want to find me-click on one of the frames.</h5>
+ <p   htps://discord.gg/mQvaHrebEM"><img alt="Discord" src="https://img.shields.io/discord/930421351053934663?color=yellow&label=discord&logoColor=blue&style=for-the-badge"></a>
+<a href="https://www.youtube.com/channel/UCAXDB9v8haW-tQ2WmPO2j8g"><img alt="Youtub" src="https://img.shields.io/youtube/channel/subscribers/UCAXDB9v8haW-tQ2WmPO2j8g?style=for-the-badge"></a>
+</p>
 
  
- <h3>I'm FROM UKRAINE. BUT NOW I LEAVE IN GERMANY/I LIKE PYTHON AND LIBRARY OF PYTHON: PYGAME AND TKINTER</h3>
- <div id="header" align="center">
-       <img src="https://media.giphy.com/media/MOSebUr4rvZS0/giphy.gif" width="250"
-  </div>
- <h4>MY E-MAIL: smplencl@gmail.com </h4> 
-<div id="header" align="center">
+ <h5>I AM ORIGINALLY FROM UKRAINE. BUT NOW I LIVE IN GERMANY/ I LOVE PYTHON AND PYTHON LIBRARIES: PYGAME AND TKINTER</h5>
+ <div id="header" align="left">
+       <img src="https://media.giphy.com/media/MOSebUr4rvZS0/giphy.gif" width="250" 
+        height="250"
+ </div>
+  <body> 
+   <p align="right"><a href="https://www.buymeacoffee.com/UkraineGrivnya"><img src="https://img.shields.io/youtube/channel/subscribers/UCAXDB9v8haW-tQ2WmPO2j8g?style=for-the-badge" width="" 
+   height="" ></a></p>
+ </body>  
+  
+ <h4 align="left">MY E-MAIL: smplencl@gmail.com </h4> 
+<div id="header" align="left">
       <img src="https://media.giphy.com/media/YmjleYhDTUiYw/giphy.gif" width="150"
  </div>
 
