@@ -6,7 +6,7 @@
   </head>
 
  <body> 
-   <p><a href="https://www.buymeacoffee.com/UkraineGrivnya"><img src="buymeacoffee.png" width="500" 
+   <p><a href="https://www.buymeacoffee.com/UkraineGrivnya"><img src="yellow-button.png" width="500" 
    height="500" ></a></p>
  </body> 
 
