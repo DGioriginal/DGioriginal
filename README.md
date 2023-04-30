@@ -12,8 +12,9 @@
 
 
  <h5>These are my networks, if you want to find me-click on one of the frames.</h5>
- <p   htps://discord.gg/mQvaHrebEM"><img alt="Discord" src="https://img.shields.io/discord/930421351053934663?color=yellow&label=discord&logoColor=blue&style=for-the-badge"></a>
+ <p><a htps://discord.gg/mQvaHrebEM"><img alt="Discord" src="https://img.shields.io/discord/930421351053934663?color=yellow&label=discord&logoColor=blue&style=for-the-badge"></a>
 <a href="https://www.youtube.com/channel/UCAXDB9v8haW-tQ2WmPO2j8g"><img alt="Youtub" src="https://img.shields.io/youtube/channel/subscribers/UCAXDB9v8haW-tQ2WmPO2j8g?style=for-the-badge"></a>
+  <a href="https://ukraine-grivnya.itch.io/"><img alt="Youtub" src="https://img.shields.io/badge/itch.io-Ukraine--Grivnya-red?style=for-the-badge"></a>
 </p>
 
  
@@ -22,10 +23,7 @@
        <img src="https://media.giphy.com/media/MOSebUr4rvZS0/giphy.gif" width="250" 
         height="250"
  </div>
-  <body> 
-   <p align="right"><a href="https://www.buymeacoffee.com/UkraineGrivnya"><img src="https://img.shields.io/youtube/channel/subscribers/UCAXDB9v8haW-tQ2WmPO2j8g?style=for-the-badge" width="" 
-   height="" ></a></p>
- </body>  
+ 
   
  <h4 align="left">MY E-MAIL: smplencl@gmail.com </h4> 
 <div id="header" align="left">
