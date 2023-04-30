@@ -28,13 +28,11 @@
  <h4 align="left">MY E-MAIL: smplencl@gmail.com </h4> 
 <div id="header" align="left">
       <img src="https://media.giphy.com/media/YmjleYhDTUiYw/giphy.gif" width="150"
+
  </div>
 
 
-</html>
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DGioriginal)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=DGioriginal&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DGioriginal&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=DGioriginal&theme=solarized_dark)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DGioriginal&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DGioriginal&theme=solarized_dark)
