@@ -18,7 +18,7 @@
 </p>
 
  
- <h5>I AM ORIGINALLY FROM UKRAINE. BUT NOW I LIVE IN GERMANY/ I LOVE PYTHON AND PYTHON LIBRARIES: PYGAME AND TKINTER</h5>
+ <h5>I  FROM UKRAINE.I LOVE PYTHON AND PYTHON LIBRARIES: PYGAME AND TKINTER</h5>
  <div id="header" align="left">
        <img src="https://media.giphy.com/media/MOSebUr4rvZS0/giphy.gif" width="250" 
         height="250"
